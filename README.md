@@ -66,14 +66,15 @@
 
 <h3>Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/mysignproyect/MySignProject">
-    <p>Proyecto de My sing</p>
-    <p> Back en Render: https://mysignproject.onrender.com</p>
-    <p>Front en Vercel: https://my-sign-project.vercel.app</p>
+  <a href="https://github.com/mysignproyect/MySignProject.git">
+    Proyecto de My sing
   </a>
+  <p> Back en Render: https://mysignproject.onrender.com</p>
+  <p>Front en Vercel: https://my-sign-project.vercel.app</p>
   <a href="https://github.com/celene12/ProyectoFinal-JC_Basico">
     <p>Proyecto WorldWald</p>
   </a>
+  <p>Git pages: https://celene12.github.io/ProyectoFinal-JC_Basico/index.html</p>
 </p>
 
 <br>
