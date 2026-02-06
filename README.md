@@ -69,12 +69,12 @@
   <a href="https://github.com/mysignproyect/MySignProject.git">
     Proyecto de My sing
   </a>
-  <p> Back en Render: https://mysignproject.onrender.com</p>
-  <p>Front en Vercel: https://my-sign-project.vercel.app</p>
+  <p align="center"> Back en Render: https://mysignproject.onrender.com</p>
+  <p align="center">Front en Vercel: https://my-sign-project.vercel.app</p>
   <a href="https://github.com/celene12/ProyectoFinal-JC_Basico">
-    <p>Proyecto WorldWald</p>
+    Proyecto WorldWald
   </a>
-  <p>Git pages: https://celene12.github.io/ProyectoFinal-JC_Basico/index.html</p>
+  <p align="center">Git pages: https://celene12.github.io/ProyectoFinal-JC_Basico/index.html</p>
 </p>
 
 <br>
