@@ -71,7 +71,7 @@
   </a>
   <p align="center"> Back en Render: https://mysignproject.onrender.com</p>
   <p align="center">Front en Vercel: https://my-sign-project.vercel.app</p>
-  <a href="https://github.com/celene12/ProyectoFinal-JC_Basico">
+  <a align="center" href="https://github.com/celene12/ProyectoFinal-JC_Basico">
     Proyecto WorldWald
   </a>
   <p align="center">Git pages: https://celene12.github.io/ProyectoFinal-JC_Basico/index.html</p>
