@@ -66,29 +66,12 @@
 
 <h3>Featured Projects</h3>
 <p align="center">
-  <a href="https://github.com/danielaPerezA/Automation-Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielaPerezA&repo=Automation-Framework&theme=dark" />
+  <a href="https://github.com/mysignproyect/MySignProject">
+    <p>Proyecto de My sing</p>
   </a>
-  <a href="https://github.com/danielaPerezA/Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielaPerezA&repo=Data-Analysis&theme=dark" />
+  <a href="https://github.com/celene12/ProyectoFinal-JC_Basico">
+    <p>Proyecto WorldWald</p>
   </a>
-</p>
-
-<h3>GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielaPerezA&show_icons=true&theme=dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielaPerezA&layout=compact&theme=dark" height="150"/>
-</p>
-
-<h3>Data Analysis Dashboard</h3>
-<p align="center">
-  <a href="https://lookerstudio.google.com/s/k76a-IMixIk" target="_blank">
-    <img src="https://www.altostratus.es/wp-content/uploads/looker_logo_horizontal_fullcolor_reverse-1.png" 
-         alt="Looker Studio logo" height="60">
-  </a>
-</p>
-<p align="center">
-  <samp>Click the logo to explore my interactive data analysis dashboard built with Google Looker Studio.</samp>
 </p>
 
 <br>
@@ -101,24 +84,14 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <a href="mailto:danielaperezagualimpiat@gmail.com" target="_blank">
+  <a href="mailto:celeneparra12@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" 
          alt="Gmail" height="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/daniela-perez-5a0425341" target="_blank">
+  <a href="https://www.linkedin.com/in/celene-parra-vega-9b2586367/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
          alt="LinkedIn" height="40" />
-  </a>
-
-  <a href="https://wa.me/573206499702" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" 
-         alt="WhatsApp" height="40" />
-  </a>
-
-  <a href="https://www.instagram.com/whos.danx/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" 
-         alt="Instagram" height="40" />
   </a>
 
 </p>
